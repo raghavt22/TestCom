@@ -1,0 +1,4 @@
+Hi,, there while saving this I've created a new
+branch using git branch branch_name command
+and to move the pointer to the freshly built branch
+is using git checkout new_branch_name
